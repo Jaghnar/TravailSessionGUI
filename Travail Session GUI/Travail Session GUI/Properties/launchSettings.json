@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Travail Session GUI (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Travail Session GUI (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
